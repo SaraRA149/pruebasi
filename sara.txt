@@ -1,6 +1,6 @@
-hola
-que tal??
-todo ok
-bien
+hi 
+how are you?
+im fine
+and you?
 
 CON MODIFICACIONES
