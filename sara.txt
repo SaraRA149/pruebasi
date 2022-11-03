@@ -1,6 +1,6 @@
-hi 
-how are you?
-im fine
-and you?
+hola
+que tal??
+todo ok
+bien!!
 
 CON MODIFICACIONES
